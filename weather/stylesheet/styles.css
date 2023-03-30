@@ -1,0 +1,26 @@
+body {
+    
+    background-image: url(./360_F_461232389_XCYvca9n9P437nm3FrCsEIapG4SrhufP.jpg);
+}
+
+body {
+    box-sizing: border-box;
+    
+}
+
+#table {
+    padding: 5% 3%;
+}
+
+.city-name {
+    margin-bottom: 9%;
+    font-weight: 400;
+    letter-spacing: 20px;
+    font-size: 60px;
+}
+
+#about {
+    margin-left: 38%;
+    background-color: bisque;
+    font-size: xx-small;
+}
